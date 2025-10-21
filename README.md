@@ -1,21 +1,24 @@
-# AneleNenngwekhulu2515-
+# 💫 About Me:
+I build apps that look good, run fast, and stay secure.<br>Right now, I’m all about mixing mobile dev and cybersecurity — because safe tech is smart tech 🔒✨<br><br>🔧 Skills & Interests:<br><br>    Mobile Development (Flutter, React Native)<br>    Backend (Java, APIs, Firebase)<br>    Cybersecurity & Ethical Hacking<br>    UI/UX for mobile apps<br><br>🚧 Projects in progress:<br><br>    📱 Flutter Dictionary App<br>    🎶 Spotify Clone (React + Spotify API)<br>    🛡️ Diving deeper into network security & app vulnerabilities<br><br>🎧 When I’m not coding, I’m vibing to music or geeking out over new tech tools.<br>🌱 Always learning. Always building. Always securing.
 
-# Heyy 👋 I’m Anele
 
-I build apps that look good, run fast, and stay *secure*.  
-Right now, I’m all about mixing **mobile dev** and **cybersecurity** — because safe tech is smart tech 🔒✨  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/I build apps that look good, run fast, and stay secure. Right now, I’m all about mixing mobile dev and cybersecurity — because safe tech is smart tech 🔒✨  🔧 Skills & Interests:      Mobile Development (Flutter, React Native)     Backend (Java, APIs, Firebase)     Cybersecurity & Ethical Hacking     UI/UX for mobile apps  🚧 Projects in progress:      📱 Flutter Dictionary App     🎶 Spotify Clone (React + Spotify API)     🛡️ Diving deeper into network security & app vulnerabilities  🎧 When I’m not coding, I’m vibing to music or geeking out over new tech tools. 🌱 Always learning. Always building. Always securing.) 
 
-🔧 **Skills & Interests:**  
-- Mobile Development (Flutter, React Native)  
-- Backend (Java, APIs, Firebase)  
-- Cybersecurity & Ethical Hacking  
-- UI/UX for mobile apps  
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AneleNenngwekhulu2515&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AneleNenngwekhulu2515&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AneleNenngwekhulu2515&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🚧 **Projects in progress:**  
-- 📱 Flutter Dictionary App  
-- 🎶 Spotify Clone (React + Spotify API)  
-- 🛡️ Diving deeper into network security & app vulnerabilities
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AneleNenngwekhulu2515&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
-🎧 When I’m not coding, I’m vibing to music or geeking out over new tech tools.  
-🌱 Always learning. Always building. Always securing.  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AneleNenngwekhulu2515&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
