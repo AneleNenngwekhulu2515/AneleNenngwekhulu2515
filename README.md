@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build apps that look good, run fast, and stay secure.<br>Right now, I’m all about mixing mobile dev and cybersecurity — because safe tech is smart tech 🔒✨<br><br>🔧 Skills & Interests:<br><br>    Mobile Development (Flutter, React Native)<br>    Backend (Java, APIs, Firebase)<br>    Cybersecurity & Ethical Hacking<br>    UI/UX for mobile apps<br><br>🚧 Projects in progress:<br><br>    📱 Flutter Dictionary App<br>    🎶 Spotify Clone (React + Spotify API)<br>    🛡️ Diving deeper into network security & app vulnerabilities<br><br>🎧 When I’m not coding, I’m vibing to music or geeking out over new tech tools.<br>🌱 Always learning. Always building. Always securing.
+I build apps that look good, run fast, and stay secure.<br>Right now, I’m all about mixing mobile dev and cybersecurity — because safe tech is smart tech 🔒✨<br><br>🔧 Skills & Interests:<br><br>    Mobile Development (Flutter, React Native)<br>    Backend (Java, APIs, Firebase)<br>    Cybersecurity & Ethical Hacking<br>    UI/UX for mobile apps<br><br>🚧 Projects in progress:<br><br>    📱 Flutter Sneaker App<br>    🎶 Spotify Clone (React + Spotify API)<br>    🛡️ Diving deeper into network security & app vulnerabilities<br><br>🎧 When I’m not coding, I’m vibing to music or geeking out over new tech tools.<br>🌱 Always learning. Always building. Always securing.
 
 
 ## 🌐 Socials:
