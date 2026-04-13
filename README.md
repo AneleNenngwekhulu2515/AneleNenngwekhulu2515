@@ -1,5 +1,9 @@
 # 💫 About Me:
-I build apps that look good, run fast, and stay secure.<br>Right now, I’m all about mixing mobile dev and cybersecurity — because safe tech is smart tech 🔒✨<br><br>🔧 Skills & Interests:<br><br>    Mobile Development (Flutter, React Native)<br>    Backend (Java, APIs, Firebase)<br>    Cybersecurity & Ethical Hacking<br>    UI/UX for mobile apps<br><br>🚧 Projects in progress:<br><br>    📱 Flutter Sneaker App<br>    🎶 Spotify Clone (React + Spotify API)<br>    🛡️ Diving deeper into network security & app vulnerabilities<br><br>🎧 When I’m not coding, I’m vibing to music or geeking out over new tech tools.<br>🌱 Always learning. Always building. Always securing.
+I am an aspiring cybersecurity professional with a strong interest in protecting systems and sensitive data from cyber threats. I am particularly interested in analyzing security incidents and identifying vulnerabilities to help organizations strengthen their defenses.
+I bring strengths in attention to detail, problem-solving, and written communication, which enable me to effectively analyze issues and clearly document findings. I am committed to continuous learning and actively developing my technical skills in areas such as Linux, networking, and cybersecurity tools.
+I value protecting people and their data, as well as adhering to ethical and legal standards. I aim to support organizations by helping maintain secure, reliable, and compliant systems in an evolving threat landscape.
+
+🎧 When I’m not coding, I’m vibing to music or geeking out over new tech tools.<br>🌱 Always learning. Always building. Always securing.
 
 
 ## 🌐 Socials:
